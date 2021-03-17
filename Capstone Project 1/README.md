@@ -1,16 +1,17 @@
-﻿
+
 
 ## Analysis on San Francisco Airbnb Open Data
 #### What's in this folder?
 - **sf**: contains data files: listings.csv, neighbourhoods.csv and neighbourhoods.geojson
-- **Capstone_Project_1_Report.docx**: final report
+- **Capstone_Project_1_Report.pdf**: final report
 - **Capstone_Project_1_slides.pdf**: slides
 - **Data_Story.ipynb**: code of exploratory data analysis (EDA) visualization part
 - **Data_Wrangling.ipynb**: code of data cleaning and wrangling part
 - **Inferential_Statistics.ipynb**: code of EDA inferential statistics part
+- **Deep_Analysis.ipynb**: code of modeling part
 - **listing_count_map.html**: map of San Francisco with listing counts in each neighbourhood
 - **listings_clean.csv**: cleaned data after data cleaning and wrangling
--  **madian_price_map.html**: map of San Francisco with median listing price in each neighbourhood
+- **median_price_map.html**: map of San Francisco with median listing price in each neighbourhood
 
 ### About This Project
 #### Problem
